@@ -1,3 +1,9 @@
+v2ray
+env http_proxy=localhost:1087
+env https_proxy=localhost:1087
+env ALL_PROXY=localhost:1080
+
+
 准备 代理安装好并启动，8888端口
 
 安装gdk 使用代理make bootstrap：
